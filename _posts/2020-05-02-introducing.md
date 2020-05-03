@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "first posting"
-tags: tag1
+tags: 수리물리학
 ---
 
 ## Introducing
