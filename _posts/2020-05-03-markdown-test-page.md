@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tag
 title: "Markdown Test Page"
 tags: tag2
 categories: tag2

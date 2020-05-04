@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tag
 title: "first posting"
 tags: tag1
 categories: tag1

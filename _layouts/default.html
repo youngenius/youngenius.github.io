@@ -41,6 +41,7 @@
 				</li>
 			</ul>
 		</div>
+		<!--
 		<div class="post_list">
 			{% unless page.date%}
 				{% if page.title == 'me' or page.title == '404...' %}
@@ -60,7 +61,8 @@
 				</ul>
 			{% endunless %}
 		</div>
-		<!--
+		-->
+		
 		<div class="post_list">
 			{% unless page.date%}
 				{% if page.title == 'me' or page.title == '404...' %}
@@ -80,7 +82,7 @@
 				</ul>
 			{% endunless %}
 		</div>
-		-->
+		
 		<div class="post_total">
 			{% if page.tag %}
 				<div class="left">{{ site.tags[page.tag] | size }} object(s)</div>
