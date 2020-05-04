@@ -2,6 +2,7 @@
 layout: default
 title: "first posting"
 tags: tag1
+categories: tag1
 ---
 
 ## Introducing
