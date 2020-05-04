@@ -33,6 +33,7 @@ function minimize () {
 	if ( wid > 900 ) {
 		post.style.width = "800px";
 		cont.style.width = "98.5%";
+		post.style.width = "600px";
 	}
 }
 
