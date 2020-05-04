@@ -241,7 +241,7 @@ ul.topbar {
 	ul {
 		list-style: square;
 		margin: 0 0 15px 30px;
-
+		font-size: 20px;
 		li {
 			padding: 5px;
 
@@ -258,7 +258,7 @@ ul.topbar {
 	ol {
 		list-style: decimal-leading-zero;
 		margin: 0 0 15px 30px;
-
+		font-size: 20px;
 		li {
 			padding: 5px;
 
@@ -273,6 +273,7 @@ ul.topbar {
 	}
 
 	table, th, td {
+		font-size: 20px;
 		border: 1px solid #222222;
 		padding: 2px;
 	}
