@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "first posting"
-tags: tag1
+cetegories: tag1
 ---
 
 ## Introducing
