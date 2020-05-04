@@ -8,15 +8,19 @@ function maximize () {
 	var post = document.getElementsByClassName("content")[0];
 	var cont = document.getElementsByClassName("post_content")[0];
 	var wid = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName("body")[0].clientWidth;
-
+	var hei = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName("body")[0].clientHeight;
 	if (wid > 900) {
 		widf = wid * 0.9;
+		heif = hei * 0.9;
 		post.style.width = widf + "px";
+		post.style.height = heif + "px";
 
 		if (wid < 1400) {
 			cont.style.width = "99%";
+			cont.style.height = "99%";
 		} else {
 			cont.style.width = "99.4%";
+			cont.sytle.height ="99.4%";
 		}
 	}
 }
