@@ -55,6 +55,9 @@
 			{% else %}
 				<ul>
 					{% for post in site.tags[page.tags] %}
+					<script type="text/javascript">
+					alert(post);
+					</script>
 					<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
 					{% endfor %}
 				</ul>
