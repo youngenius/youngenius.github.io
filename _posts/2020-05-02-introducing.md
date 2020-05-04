@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "first posting"
-tags: MathmaticalPhysics
+tags: 수리물리학
 ---
 
 ## Introducing

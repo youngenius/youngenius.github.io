@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: DeepLearning
+tags: 딥러닝개념
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
