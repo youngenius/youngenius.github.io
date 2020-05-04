@@ -45,8 +45,7 @@
 			{% unless page.date%}
 				{% if page.title == 'me' or page.title == '404...' %}
 					<ul>
-						{% for post in site.categories %}
-						<h3>site.catogories</h3>
+						{% for post in site.posts.categories %}
 						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
 						{% endfor %}
 					</ul>
