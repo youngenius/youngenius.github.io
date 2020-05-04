@@ -59,8 +59,11 @@
 				{% endif %}
 			{% else %}
 				<ul>
-					{% for post in site.posts[page.tags] %}
+					{% assign tags = page.tags | sort %}
+					{% for post in site.posts%}
+					{% if post.tags == tags %}
 					<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+					{% endif %}
 					{% endfor %}
 				</ul>
 			{% endunless %}
