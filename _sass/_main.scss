@@ -6,7 +6,6 @@ body {
 
 .wrapper, .content {
 	width: 800px;
-	height : 1000px;
 	margin: auto;
 	margin-top: 20px;
 	background: #bfb8bf;
@@ -98,8 +97,8 @@ ul.topbar {
 .post_list {
 	width: 70.2%;
 	margin: 0 auto;
-	min-height: 150px;
-	max-height: 150px;
+	min-height: 500px;
+	max-height: 500px;
 	overflow-y: scroll;
 	display: inline-block;
 
@@ -131,8 +130,8 @@ ul.topbar {
 .tag_list {
 	width: 28%;
 	margin: 0 auto;
-	min-height: 150px;
-	max-height: 150px;
+	min-height: 500px;
+	max-height: 500px;
 	overflow-y: scroll;
 	display: inline-block;
 
