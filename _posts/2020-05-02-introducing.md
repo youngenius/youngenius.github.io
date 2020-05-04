@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "first posting"
-tags: Mathmatical Physics
+tags: MathmaticalPhysics
 ---
 
 ## Introducing
