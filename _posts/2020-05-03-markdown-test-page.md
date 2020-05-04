@@ -2,7 +2,6 @@
 layout: post
 title: "Markdown Test Page"
 tags: tag2
-categories: tag2
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
