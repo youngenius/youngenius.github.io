@@ -20,7 +20,7 @@ function maximize () {
 			cont.style.height = "99%";
 		} else {
 			cont.style.width = "99.4%";
-			cont.sytle.height ="99.4%";
+			cont.style.height ="99.4%";
 		}
 	}
 }
