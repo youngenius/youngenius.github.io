@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "first posting"
-tags: tag1
+tags: nlp
 ---
 
 ## Introducing
