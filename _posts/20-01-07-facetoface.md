@@ -4,7 +4,6 @@ title: "Face to Face"
 tags: gan
 ---
 <p style="text-align: center;">
-	<img src="../image/gan/0107/0.jpg" width="70%" align="center">
 	<img src="../image/gan/0107/1.jpg" width="70%" align="center">
 	<img src="../image/gan/0107/2.jpg" width="70%" align="center">
 	<img src="../image/gan/0107/3.jpg" width="70%" align="center">
