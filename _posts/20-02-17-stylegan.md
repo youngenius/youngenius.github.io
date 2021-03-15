@@ -4,7 +4,6 @@ title: "StyleGAN"
 tags: gan
 ---
 <p style="text-align: center;">
-	<img src="../image/gan/0217/0.jpg" width="70%" align="center">
 	<img src="../image/gan/0217/1.jpg" width="70%" align="center">
 	<img src="../image/gan/0217/2.jpg" width="70%" align="center">
 	<img src="../image/gan/0217/3.jpg" width="70%" align="center">
@@ -22,4 +21,5 @@ tags: gan
 	<img src="../image/gan/0217/15.jpg" width="70%" align="center">
 	<img src="../image/gan/0217/16.jpg" width="70%" align="center">
 	<img src="../image/gan/0217/17.jpg" width="70%" align="center">
+	<img src="../image/gan/0217/18.jpg" width="70%" align="center">
 </p>
