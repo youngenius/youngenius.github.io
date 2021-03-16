@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StarGAN적용하기"
+title: "0609"
 tags: gan frontalization
 ---
 <p style="text-align: center;">
