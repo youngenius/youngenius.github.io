@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "앞모습생성 모델 구현"
+title: "frontface generation model"
 tags: frontalization
 ---
 <p style="text-align: center;">
