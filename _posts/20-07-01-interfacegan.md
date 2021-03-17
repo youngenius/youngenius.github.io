@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "InterfaceGAN"
-tags: frontalization
+tags: gan
 ---
 <p style="text-align: center;">
 	<img src="../image/gan/0701/4.jpg" width="70%" align="center">
