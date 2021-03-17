@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "0609"
-tags: gan frontalization
+tags: frontalization
 ---
 <p style="text-align: center;">
 	<img src="../image/frontalization/0609/1.jpg" width="70%" align="center">
